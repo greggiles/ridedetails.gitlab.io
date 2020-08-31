@@ -14,7 +14,7 @@ Three ride dates palnned:
 
 To save on some parking, at least for Monday and Wednesday, we will [meet here](https://goo.gl/maps/YtPcAyGFiqPSZpMx8)
 
-![Map](https://user-images.githubusercontent.com/5032366/91672548-45fc2780-eafd-11ea-933a-2456153317d9.png "Addison Map")
+![Map](https://user-images.githubusercontent.com/5032366/91672548-45fc2780-eafd-11ea-933a-2456153317d9.png "Addison Map")</br>
 https://user-images.githubusercontent.com/5032366/91672548-45fc2780-eafd-11ea-933a-2456153317d9.png
 
 ## Monday Details
