@@ -14,6 +14,8 @@ Three ride dates planned:
 
 To save on some parking, at least for Monday and Wednesday, we will [meet here](https://goo.gl/maps/YtPcAyGFiqPSZpMx8)
 
+This is Oakview Middle School at 917 Lake George Rd, Oakland Charter Township, MI 48363
+
 ![Map](https://user-images.githubusercontent.com/5032366/91672548-45fc2780-eafd-11ea-933a-2456153317d9.png "Addison Map")</br>
 https://user-images.githubusercontent.com/5032366/91672548-45fc2780-eafd-11ea-933a-2456153317d9.png
 
