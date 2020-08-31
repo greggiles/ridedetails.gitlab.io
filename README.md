@@ -4,7 +4,7 @@ Let's go rock some Addison!
 
 ### When
 
-Three ride dates palnned:
+Three ride dates planned:
 
 * Monday August 31st
 * Wednesday Sept. 2nd
