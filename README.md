@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Coach Greg's Ride Details
 
-You can use the [editor on GitHub](https://github.com/greggiles/ridedetails.gitlab.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Let's go rock some Addison!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### When
 
-### Markdown
+Three ride dates palnned:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Monday August 31st
+* Wednesday Sept. 2nd
+* Saturday Sept. 5th
 
-```markdown
-Syntax highlighted code block
+### Details
 
-# Header 1
-## Header 2
-### Header 3
+To save on some parking, at least for Monday and Wednesday, we will [meet here](https://goo.gl/maps/YtPcAyGFiqPSZpMx8)
 
-- Bulleted
-- List
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61637.69001291961!2d-83.18940678431207!3d42.760522645101844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824edce55af786f%3A0x8e53a7a0c6e0e32c!2sOakland%20Charter%20Township%2C%20MI%2048363!5e1!3m2!1sen!2sus!4v1598831281290!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-1. Numbered
-2. List
+## Monday Details
 
-**Bold** and _Italic_ and `Code` text
+* **When**: We are planning to leave Brighton at 3PM to be there at 4PM ... Ride at ~4:15PM
+* **Where**: Meet at this middle school down the road so that we don't have to pay for parking. 
+* **What**: Probably 2 or 2.5 laps of Addison 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Coach notes**: I have a seat or two that I can take a rider or two ... reach out. Otherwise, work on a car pool with teammates!!
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/greggiles/ridedetails.gitlab.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
